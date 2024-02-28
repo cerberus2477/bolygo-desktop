@@ -1,2 +1,2 @@
 # bolygo-desktop
-12/1 Grafikus asztali alkalmazás utazási iroda (projekt)
+2023.10.09. Grafikus asztali alkalmazás utazási iroda (projekt)
